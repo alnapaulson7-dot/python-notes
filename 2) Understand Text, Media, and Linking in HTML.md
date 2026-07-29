@@ -1,4 +1,3 @@
-````markdown
 # 📝 Text, Media & Linking in HTML
 
 > Learn how to format text, display images, create lists, and connect web pages using hyperlinks.
